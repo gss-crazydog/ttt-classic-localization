@@ -4,13 +4,13 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"	"On Main Menu"
-			"#RP_Preparing"	"Preparing {#RP_Details}"
-			"#RP_Active"	"In Progress {#RP_Details}"
-			"#RP_Complete"	"Round Over {#RP_Details}"
-			"#RP_Waiting"	"Waiting {#RP_Details}"
+			"#RP_MainMenu"	"No Menu Principal"
+			"#RP_Preparing"	"Preparação {#RP_Details}"
+			"#RP_Active"	"Em Progresso {#RP_Details}"
+			"#RP_Complete"	"Rodada Encerrada {#RP_Details}"
+			"#RP_Waiting"	"Esperando {#RP_Details}"
 			"#RP_Details"	"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
-			"#Status"	"{#RP_%presence%} on {%game:map_name%} | %game:server_count%/%game:server_limit% players"
+			"#Status"	"{#RP_%presence%} em {%game:map_name%} | %game:server_count%/%game:server_limit% jogadores"
 		}
 	}
 }
