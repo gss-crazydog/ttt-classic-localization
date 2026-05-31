@@ -4,6 +4,7 @@ This repository contains the localization files for **[TTT Classic](https://stor
 
 We welcome contributions from anyone! If you would like to correct existing translations or add support for a new language, please feel free to submit a pull request.
 
+Anyone who contributes to translations will be included in the thanks section in the README and mentioned in patch notes. If you do NOT want to be mentioned, please mention in your pull requests/issues.
 ---
 
 ## File Structure & Descriptions
