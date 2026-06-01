@@ -1,6 +1,6 @@
 "lang" 
 { 
-"Language" "engwish" 
+"Language" "uwuenglish" 
 "Tokens" 
 {
 "ServerBrowser_Title"				"Sewvew Bwowsew"
