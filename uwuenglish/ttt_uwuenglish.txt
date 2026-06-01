@@ -1,6 +1,6 @@
 "lang"
 {
-  "Language"    "engwish"
+  "Language"    "uwuenglish"
   "Tokens"
   {
     // General text used in various places
