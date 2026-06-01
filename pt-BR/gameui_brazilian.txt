@@ -1,9 +1,0 @@
-"lang" 
-{ 
-"Language" "brazilian" 
-"Tokens" 
-{ 
-"GameUI_ReverseMouse" 		"Inverter o mouse"
-"GameUI_ReverseMouseLabel"	"Inverter o eixo vertical do mouse"
-} 
-}

@@ -5,11 +5,12 @@ This repository contains the localization files for **[TTT Classic](https://stor
 We welcome contributions from anyone! If you would like to correct existing translations or add support for a new language, please feel free to submit a pull request.
 
 Anyone who contributes to translations will be included in the thanks section in the README and mentioned in patch notes. If you do NOT want to be mentioned, please mention in your pull requests/issues.
+
 ---
 
 ## File Structure & Descriptions
 
-Currently, the primary language files are housed inside language-specific directories (such as the `/en` folder for English). Here is what each file/folder corresponds to:
+The primary language files are housed inside language-specific directories (such as the `/english` folder for English). Here is what each file/folder corresponds to:
 
 *   **`quickchat/`** – Contains audio files that play when quickchat is used (corresponding directly with translation keys starting with `TTT_QUICK_`). Audio files must be formatted as **8-bit mono WAV at 11.025 kHz (~88 kbps)**.
 *   **`achievements.vdf`** – Steam Achievement localizations (located in the root directory, containing all languages).
@@ -17,6 +18,7 @@ Currently, the primary language files are housed inside language-specific direct
 *   **`gameui_<language>.txt`** – Stock Half-Life Game UI strings.
 *   **`serverbrowser_<language>.txt`** – Stock Half-Life Server Browser strings.
 *   **`valve_<language>.txt`** – Stock Half-Life engine/game strings.
+*   **`vgui_<language>.txt`** - Stock VGUI strings.
 *   **`ttt_<language>.txt`** – TTT Classic-specific gameplay and UI strings.
 *   **`storepage.json`** – The text used for the Steam Store page listing (located in the root directory).
 
@@ -36,5 +38,5 @@ If you want to add a language not yet present:
 1. Refer to the list of supported Steam languages: [Steam Localization Languages](https://partner.steamgames.com/doc/store/localization/languages).
 2. Note the type of language support needed:
     *   **Full Platform** languages should provide localizations for achievements (`achievements.vdf`), rich presence (`rich_presence.vdf`), and `storepage.json`.
-    *   **All Other Languages (including ones not supported by Steam!)** are used for all other files (`quickchat/`, `gameui_`, `serverbrowser_`, `valve_`, and `ttt_`).
+    *   **All Other Languages (including ones not supported by Steam!)** are used for all other files (`quickchat/`, `gameui_`, `serverbrowser_`, `valve_`, `vgui_`, and `ttt_`).
 3. Copy the English keys/files as a baseline, add/translate the text, and submit your pull request!
