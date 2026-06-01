@@ -1,6 +1,6 @@
 "lang"
 {
-"Language" "engwish" 
+"Language" "uwuenglish" 
 "Tokens"
 {
 "TextEntry_Cut"			"Cut"
