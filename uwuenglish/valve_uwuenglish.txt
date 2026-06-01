@@ -1,6 +1,6 @@
 "lang" 
 { 
-"Language" "engwish" 
+"Language" "uwuenglish" 
 "Tokens" 
 { 
 "Valve_Listen_MapName"			"Map"
