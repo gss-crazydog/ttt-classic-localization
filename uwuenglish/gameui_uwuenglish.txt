@@ -1,6 +1,6 @@
 "lang" 
 { 
-"Language" "english" 
+"Language" "uwuenglish" 
 "Tokens" 
 { 
 "GameUI_ReverseMouse" 		"Invewt mouse"
