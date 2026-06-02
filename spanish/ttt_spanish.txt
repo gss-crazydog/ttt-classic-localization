@@ -1,6 +1,6 @@
 "lang"
 {
-  "Language"    "latam"
+  "Language"    "spanish"
   "Tokens"
   {
     // General text used in various places

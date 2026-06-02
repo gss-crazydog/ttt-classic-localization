@@ -163,7 +163,7 @@
     "TTT_SEARCH_KILLS2"                         "Našel jste list zabití s těmito jmény:"
     "TTT_SEARCH_EYES"                           "Použitím vašich detektivních schopností, identifikujete poslední osobu, kterou viděl: %s. Vrah, nebo náhoda?"
     // Scoreboard
-    "TTT_SB_PLAYING"                            "Hrajete na..."
+    "TTT_SB_PLAYING"                            "Hrajete na "
     "TTT_SB_MAPCHANGE"                          "Mapa se změní za %d kol nebo za %s"
     "TTT_SB_MIA"                                "Chybí v akci"
     "TTT_SB_CONFIRMED"                          "Potvrzen jako mrtvý"

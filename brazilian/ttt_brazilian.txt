@@ -59,7 +59,7 @@
         "TTT_EQUIP_HELP_CARRY"                              "Você só pode comprar coisas as quais você tenha algum compartimento para guardá-las."
         "TTT_EQUIP_CARRY"                                   "Você pode comprar este equipamento."
         "TTT_EQUIP_CARRY_OWN"                               "Você já tem este equipamento."
-        "TTT_EQUIP_CARRY_SLOT"                              "Você já tem um equipamento no compartimento %d."
+        "TTT_EQUIP_CARRY_SLOT"                              "Você já tem um equipamento no compartimento %s."
         "TTT_EQUIP_HELP_STOCK"                              "Certos itens só poderão ser comprados uma única vez por rodada."
         "TTT_EQUIP_STOCK_DENY"                              "Este item não está mais em estoque."
         "TTT_EQUIP_STOCK_OK"                                "Este item está em estoque."
@@ -96,7 +96,7 @@
         "TTT_XFER_SUCCESS"                                  "A transferência de créditos para %s foi bem-sucedida."
         "TTT_XFER_RECEIVED"                                 "%s lhe deu %d crédito(s)."
         // Radio tab in equipment menu
-        "TTT_RADIO_NAME"                                    "Rádio "
+        "TTT_RADIO_NAME"                                    "Rádio"
         "TTT_RADIO_HELP"                                    "Clique em um botão para fazer seu Rádio reproduzir tal som."
         "TTT_RADIO_NOTPLACED"                               "Você deve posicionar o Rádio em algum lugar para poder reproduzir sons."
         // Radio soundboard buttons
@@ -473,7 +473,7 @@
         "TTT_TIP37"                                         "No placar, clique no nome de um jogador vivo e então você poderá marcá-lo como 'suspeito' ou 'amigo', entre outras marcações. A marcação será exibida quando você estiver com a mira sobre o jogador marcado."
         "TTT_TIP38"                                         "A maioria dos equipamentos especiais posicionáveis (como o C4 e o Rádio) podem ser presos nas paredes ao usar o botão de ataque alternativo."
         "TTT_TIP39"                                         "Um explosivo C4 que explodir devido a uma falha no seu desarmamento causará uma explosão menor do que um explosivo C4 que explodir devido ao seu temporizador ter chegado a zero."
-        "TTT_TIP40"                                         "Caso esteja escrito 'MODO PRESSA' acima do tempo da rodada, a rodada terá inicialmente apenas alguns minutos, mas a cada morte o tempo restante aumentará (como capturar um ponto no TF2). Esse modo pressiona os traidores para que eles mantenham as coisas em movimento."
+        "TTT_TIP40"                                         "Caso esteja escrito 'MODO PRESSA' acima do tempo da rodada, a rodada terá inicialmente apenas alguns minutos, mas a cada morte o tempo restante aumentará (como capturar um ponto no TFC). Esse modo pressiona os traidores para que eles mantenham as coisas em movimento."
         "TTT_TIP41"                                         "Você pode ajustar o volume do microfone de um jogador ao clicar com o botão direito no ícone de silenciar dele no placar."
         "TTT_TIP42"                                         "Para desbloquear mais dicas, compre o pacote de dicas TTT Clássico por apenas R$199,99"
         "TTT_TIP43"                                         "Esqueci qual era a dica kkkkk"
