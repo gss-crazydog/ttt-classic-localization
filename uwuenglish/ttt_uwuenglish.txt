@@ -787,9 +787,6 @@
     "TTT_UNARMED"                                 "Howstew weapon"
     // Client settings
     "TTT_LANGUAGE"                                "Wanguage (Wiww Westawt Game)"
-    "TTT_LANGUAGE_STEAM"                          "Use Steam Wanguage"
-    "TTT_LANGUAGE_ENGLISH"                        "Engwish"
-    "TTT_LANGUAGE_BRAZILIAN"                      "Powtuguês (Bwasiw)"
     "TTT_HUD_HISTORY_TIME"                        "Ammo/Weapon pickup dispway time"
     "TTT_DNA_AUTO_SCAN"                           "Automatic DNyA scannying"
     "TTT_SET_RADAR_AUTO"                          "Automatic Wadaw scannying"

@@ -787,9 +787,6 @@
     // "TTT_UNARMED"                                 ""
     // Client settings
     // "TTT_LANGUAGE"                                ""
-    // "TTT_LANGUAGE_STEAM"                          ""
-    // "TTT_LANGUAGE_ENGLISH"                        ""
-    // "TTT_LANGUAGE_BRAZILIAN"                      ""
     // "TTT_HUD_HISTORY_TIME"                        ""
     // "TTT_DNA_AUTO_SCAN"                           ""
     // "TTT_SET_RADAR_AUTO"                                 ""

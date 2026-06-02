@@ -787,9 +787,6 @@
         "TTT_UNARMED"                                       "Esconder arma"
         // Client settings
         "TTT_LANGUAGE"                                      "Idioma (Reiniciará o jogo)"
-        "TTT_LANGUAGE_STEAM"                                "Usar idioma do Steam"
-        "TTT_LANGUAGE_ENGLISH"                              "Inglês"
-        "TTT_LANGUAGE_BRAZILIAN"                            "Português (Brasil)"
         "TTT_HUD_HISTORY_TIME"                              "Tempo de display de armas/munção pegas"
         "TTT_DNA_AUTO_SCAN"                                 "Scan de DNA automático"
         "TTT_SET_RADAR_AUTO"                                "Automatizar"
