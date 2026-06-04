@@ -122,7 +122,7 @@
         "GameUI_GameMenu_Multiplayer"                       "Multiplayer "
         "GameUI_GameMenu_FindServers"                       "Achar servidores"
         "GameUI_GameMenu_Customize"                         "Customizar"
-        "GameUI_GameMenu_CreateServer"                      "Crirar servidor"
+        "GameUI_GameMenu_CreateServer"                      "Criar servidor"
         "GameUI_GameMenu_Options"                           "Opções"
         "GameUI_GameMenu_Quit"                              "Fechar"
         "GameUI_PasswordsDontMatch"                         "As senhas não coincidem!"
