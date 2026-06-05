@@ -124,7 +124,7 @@
         "GameUI_GameMenu_Customize"                         "Dostosuj"
         "GameUI_GameMenu_CreateServer"                      "Utwórz serwer"
         "GameUI_GameMenu_Options"                           "Opcje"
-        "GameUI_GameMenu_Quit"                              "Przestań"
+        "GameUI_GameMenu_Quit"                              "Wyjdź"
         "GameUI_PasswordsDontMatch"                         "Wpisane hasła nie pasują!"
         "GameUI_MustEnterPassword"                          "Musisz wprowadzić hasło"
         "GameUI_IncorrectPassword"                          "Nieprawidłowe hasło"
