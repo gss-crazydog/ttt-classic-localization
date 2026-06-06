@@ -166,7 +166,7 @@
     "TTT_SEARCH_EYES"                             "Using youw detective skiwws, you identified the wast pewson they saw: %s. The kiwwew, ow a coincidence?"
     // Scoreboard
     "TTT_SB_PLAYING"                              "You awe pwaying on "
-    "TTT_SB_MAPCHANGE"                            "Привет  in %d wounds ow in %s"
+    "TTT_SB_MAPCHANGE"                            "Ending in %d wounds ow in %s"
     "TTT_SB_MIA"                                  "Missing In Action"
     "TTT_SB_CONFIRMED"                            "Confiwmed Dead"
     "TTT_SB_PING"                                 "Ping"

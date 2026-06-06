@@ -751,7 +751,7 @@
         "TTT_SUICIDEBOMB_HELP_PRI"                          "%s para ativar a bomba."
         // Laser Sight
         "TTT_LASERSIGHT_NAME"                               "Mira Laser"
-        "TTT_LASERSIGHT_DESC"                               "Adiciona uma mira laser para todas as armas sem um ataque segundário. Reduz grandemente a dispersão e recuo da arma.\n\nAtivada com o ataque segundário.Adds a laser sight to all weapons without a secondary attack.Significantly reduces weapon spread.\n\nActivate with Secondary Attack."
+        "TTT_LASERSIGHT_DESC"                               "Adiciona uma mira laser para todas as armas sem um ataque segundário. Reduz grandemente a dispersão e recuo da arma.\n\nAtivada com o ataque segundário."
         // Chicken / Spectator Chicken
         "TTT_CHICKEN_SPAWN"                                 "Ponto de surgimento de galinhas"
         "TTT_CHICKEN_RESPAWN"                               "Você pode gerar uma nova galinha em %s"
