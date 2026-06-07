@@ -161,7 +161,7 @@
 		"tokens"
 		{
 			"#RP_MainMenu"		"W menu głównym"
-			"#RP_Preparing"		"Przygotowanie {#RP_Details}"
+			"#RP_Preparing"		"Rozgrzewka {#RP_Details}"
 			"#RP_Active"		"W toku {#RP_Details}"
 			"#RP_Complete"		"Koniec rundy {#RP_Details}"
 			"#RP_Waiting"		"Oczekiwanie {#RP_Details}"
