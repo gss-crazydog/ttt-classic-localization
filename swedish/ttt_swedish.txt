@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Du kanske är förrädaren, men du är fortfarande oskyldig i ditt hjärta"
     "TTT_TIP48"                                   "Titta inte på Charles vessla"
     "TTT_TIP49"                                   "Shoutout till Simpleflips"
+    "TTT_TIP50"                                   "Du kan justera en spelares mikrofonvolym genom att högerklicka på deras tysta ikon på resultattavlan."
     // Round report
     "TTT_REPORT_TITLE"                            "Rundrapport"
     "TTT_REPORT_TAB_HILITE"                       "Höjdpunkter"

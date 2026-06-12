@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "你可能是叛徒，但你的內心仍然是無辜的"
     "TTT_TIP48"                                   "別看查爾斯的黃鼠狼"
     "TTT_TIP49"                                   "向 Simpleflips 致敬"
+    "TTT_TIP50"                                   "您可以透過右鍵點擊記分板中的靜音圖示來調整玩家的麥克風音量。"
     // Round report
     "TTT_REPORT_TITLE"                            "回合報告"
     "TTT_REPORT_TAB_HILITE"                       "重頭戲"

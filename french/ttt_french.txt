@@ -484,6 +484,7 @@
         "TTT_TIP47"                                         "Tu es peut-être le traître, mais tu es toujours innocent dans ton cœur"
         "TTT_TIP48"                                         "Ne regarde pas la fouine de Charles"
         "TTT_TIP49"                                         "Bravo à Simpleflips"
+        "TTT_TIP50"                                         "Vous pouvez ajuster le volume du microphone d'un joueur en faisant un clic droit sur l'icône mute dans le tableau des scores."
         // Round report
         "TTT_REPORT_TITLE"                                  "Rapport du round"
         "TTT_REPORT_TAB_HILITE"                             "Temps forts"

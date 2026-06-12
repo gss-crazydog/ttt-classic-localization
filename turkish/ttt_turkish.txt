@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Hain olabilirsin ama kalbinde hala masumsun"
     "TTT_TIP48"                                   "Charles'ın gelinciklerine bakmayın"
     "TTT_TIP49"                                   "Simpleflips'e sesleniyorum"
+    "TTT_TIP50"                                   "Puan tablosundaki sessize alma simgesine sağ tıklayarak bir oyuncunun mikrofon sesini ayarlayabilirsin."
     // Round report
     "TTT_REPORT_TITLE"                            "Raunt Raporu"
     "TTT_REPORT_TAB_HILITE"                       "Öne Çıkanlar"

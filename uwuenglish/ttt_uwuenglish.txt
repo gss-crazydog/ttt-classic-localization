@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "You may be the twaitow, but you awe stiww innyocent in youw heawt"
     "TTT_TIP48"                                   "Do nyot wook at Chawwes' weasew"
     "TTT_TIP49"                                   "Shoutout to Simpwefwips"
+    "TTT_TIP50"                                   "You can adjust a pwayew's micwophonye vowume by wight-cwicking theiw mute icon in the scoweboawd."
     // Round report
     "TTT_REPORT_TITLE"                            "Wound wepowt"
     "TTT_REPORT_TAB_HILITE"                       "Highwights"

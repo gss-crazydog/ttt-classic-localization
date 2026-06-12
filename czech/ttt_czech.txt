@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Možná jsi zrádce, ale v srdci jsi stále nevinný"
     "TTT_TIP48"                                   "Nedívej se na Charlesovu lasičku"
     "TTT_TIP49"                                   "Pozdrav pro Simpleflipse"
+    "TTT_TIP50"                                   "Hlasitost mikrofonu hráče můžete upravit kliknutím pravým tlačítkem myši na ikonu ztlumení ve výsledkové tabulce."
     // Round report
     "TTT_REPORT_TITLE"                            "Přehled kola"
     "TTT_REPORT_TAB_HILITE"                       "Hlavní události"

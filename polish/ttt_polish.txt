@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Możesz być zdrajcą, ale w głębi serca nadal jesteś niewinny"
     "TTT_TIP48"                                   "Nie patrz na łasicę Charlesa"
     "TTT_TIP49"                                   "Pozdrowienia dla Simpleflips"
+    "TTT_TIP50"                                   "Możesz dostosować głośność mikrofonu gracza, klikając prawym przyciskiem myszy jego ikonę wyciszenia na tablicy wyników."
     // Round report
     "TTT_REPORT_TITLE"                            "Okrągły raport"
     "TTT_REPORT_TAB_HILITE"                       "Najważniejsze"

@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Sie mögen der Verräter sein, aber in Ihrem Herzen sind Sie immer noch unschuldig"
     "TTT_TIP48"                                   "Schauen Sie nicht auf Charles' Wiesel"
     "TTT_TIP49"                                   "Grüße an Simpleflips"
+    "TTT_TIP50"                                   "Sie können die Mikrofonlautstärke eines Spielers anpassen, indem Sie mit der rechten Maustaste auf das Stummschaltsymbol in der Punktetafel klicken."
     // Round report
     "TTT_REPORT_TITLE"                            "Rundenbericht"
     "TTT_REPORT_TAB_HILITE"                       "Höhepunkte"

@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "You may be the traitor, but you are still innocent in your heart"
     "TTT_TIP48"                                   "Do not look at Charles' weasel"
     "TTT_TIP49"                                   "Shoutout to Simpleflips"
+    "TTT_TIP50"                                   "You can adjust a player's microphone volume by right-clicking their mute icon in the scoreboard."
     // Round report
     "TTT_REPORT_TITLE"                            "Round report"
     "TTT_REPORT_TAB_HILITE"                       "Highlights"

@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "あなたは裏切り者かもしれない、しかし心の中ではまだ無実です"
     "TTT_TIP48"                                   "チャールズのイタチを見るな"
     "TTT_TIP49"                                   "Simpleflips への感謝の声"
+    "TTT_TIP50"                                   "スコアボードのミュート アイコンを右クリックすると、プレイヤーのマイクの音量を調整できます。"
     // Round report
     "TTT_REPORT_TITLE"                            "ラウンドレポート"
     "TTT_REPORT_TAB_HILITE"                       "ハイライト"

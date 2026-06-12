@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Potresti essere il traditore, ma sei ancora innocente nel tuo cuore"
     "TTT_TIP48"                                   "Non guardare la donnola di Charles"
     "TTT_TIP49"                                   "Un ringraziamento a Simpleflips"
+    "TTT_TIP50"                                   "Puoi regolare il volume del microfono di un giocatore facendo clic con il pulsante destro del mouse sulla sua icona di disattivazione dell'audio nel tabellone dei punteggi."
     // Round report
     "TTT_REPORT_TITLE"                            "Report del Round"
     "TTT_REPORT_TAB_HILITE"                       "Momenti chiave"

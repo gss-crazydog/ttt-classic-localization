@@ -484,6 +484,7 @@
         "TTT_TIP47"                                         "Você pode ser o traidor, mas no fundo do seu coração, você ainda é inocente"
         "TTT_TIP48"                                         "Não olhe para a doninha do Charles"
         "TTT_TIP49"                                         "Um salve para Simpleflips"
+        "TTT_TIP50"                                         "Você pode ajustar o volume do microfone de um jogador ao clicar com o botão direito no ícone de silenciar dele no placar."
         // Round report
         "TTT_REPORT_TITLE"                                  "Relatório da rodada"
         "TTT_REPORT_TAB_HILITE"                             "Destaques"

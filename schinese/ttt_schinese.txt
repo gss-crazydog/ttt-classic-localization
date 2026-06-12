@@ -483,6 +483,7 @@
     "TTT_TIP47"                                   "你可能是叛徒，但你的内心仍然是无辜的"
     "TTT_TIP48"                                   "别看查尔斯的黄鼠狼"
     "TTT_TIP49"                                   "向 Simpleflips 致敬"
+    "TTT_TIP50"                                   "您可以通过右键单击记分牌中的静音图标来调整玩家的麦克风音量。"
     // Round report
     "TTT_REPORT_TITLE"                            "回合报告"
     "TTT_REPORT_TAB_HILITE"                       "亮点"

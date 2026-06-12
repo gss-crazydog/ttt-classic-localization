@@ -484,6 +484,7 @@
     "TTT_TIP47"                                   "Puede que seas el traidor, pero aún eres inocente en tu corazón."
     "TTT_TIP48"                                   "No mires la comadreja de Charles"
     "TTT_TIP49"                                   "Un saludo a Simpleflips"
+    "TTT_TIP50"                                   "Puedes ajustar el volumen del micrófono de un jugador haciendo clic derecho en su icono de silencio en la tabla de puntuaciones."
     // Round report
     "TTT_REPORT_TITLE"                            "Información de la ronda"
     "TTT_REPORT_TAB_HILITE"                       "Destacado"
