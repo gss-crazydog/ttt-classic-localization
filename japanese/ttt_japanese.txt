@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "攻撃ダメージ"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "鳴き声を有効にする"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "鳴き声のディレイ"
+    "TTT_VOICE_SETTINGS_NOTE"                     "これらの音声設定は有効になっていません。\nマルチプレイヤー -> TTT設定 で音声を調整してください"
   }
 }

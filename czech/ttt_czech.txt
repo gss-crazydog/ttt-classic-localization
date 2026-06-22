@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Poškození útoku"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Povolit vydávání zvuků"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Prodleva mezi zvuky"
+    "TTT_VOICE_SETTINGS_NOTE"                     "Tato nastavení hlasu nejsou povolena.\nUpravte hlasitost hlasu v Hra pro více hráčů -> Nastavení TTT"
   }
 }

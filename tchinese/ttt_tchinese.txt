@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "攻擊傷害"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "啟用噪音製造器"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "噪音製造器延遲"
+    "TTT_VOICE_SETTINGS_NOTE"                     "這些語音設定未啟用。\n請在 多人連線 -> TTT設定 中調整語音音量"
   }
 }

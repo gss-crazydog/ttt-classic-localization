@@ -1146,5 +1146,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Attack Damage"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Enable Noisemaker"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Noisemaker Delay"
+    "TTT_VOICE_SETTINGS_NOTE"                     "These voice settings are not enabled.\nAdjust voice volume in Multiplayer -> TTT Settings"
   }
 }

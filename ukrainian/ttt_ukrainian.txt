@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Шкода від атаки"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Увімкнути генератор шуму"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Затримка генератора шуму"
+    "TTT_VOICE_SETTINGS_NOTE"                     "Ці налаштування голосового чату не увімкнені.\nНалаштуйте гучність голосового чату в розділі Мережева гра -> Налаштування TTT"
   }
 }

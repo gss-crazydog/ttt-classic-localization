@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Attackskada"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Aktivera ljudskapare"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Fördröjning för ljudskapare"
+    "TTT_VOICE_SETTINGS_NOTE"                     "Dessa röstinställningar är inte aktiverade.\nJustera röstvolymen i Multiplayer -> TTT-inställningar"
   }
 }

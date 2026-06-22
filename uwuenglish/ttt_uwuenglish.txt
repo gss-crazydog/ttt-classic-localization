@@ -1125,5 +1125,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Attack Damage"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Enyabwe Nyoisemakew"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Nyoisemakew Deway"
+    "TTT_VOICE_SETTINGS_NOTE"                     "These voice settings awe nyot enyabwed.\nAdjust voice vowume in Muwtipwayew -> TTT Settings"
   }
 }

@@ -1124,5 +1124,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Danni Attacco"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Abilita Versi Pollo"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Ritardo Versi Pollo"
+    "TTT_VOICE_SETTINGS_NOTE"                     "Queste impostazioni vocali non sono abilitate.\nRegola il volume della voce in Multigiocatore -> Impostazioni TTT"
   }
 }

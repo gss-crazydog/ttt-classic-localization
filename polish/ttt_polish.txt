@@ -1126,5 +1126,6 @@
     "TTT_SPEC_CHICKEN_ATTACK_DAMAGE"              "Obrażenia od ataku"
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Włącz Noisemakera"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Opóźnienie generatora szumów"
+    "TTT_VOICE_SETTINGS_NOTE"                     "Te ustawienia głosu nie są włączone.\nDostosuj głośność głosu w Tryb wieloosobowy -> Ustawienia TTT"
   }
 }
