@@ -801,6 +801,7 @@
     "TTT_LANGUAGE_GERMAN"                         "Deutsch"
     "TTT_LANGUAGE_ITALIAN"                        "Italiano"
     "TTT_LANGUAGE_JAPANESE"                       "日本語"
+    "TTT_LANGUAGE_KOREAN"                         "한국어"
     "TTT_LANGUAGE_LATAM"                          "Español (América Latina)"
     "TTT_LANGUAGE_POLISH"                         "Polski"
     "TTT_LANGUAGE_RUSSIAN"                        "Русский"
