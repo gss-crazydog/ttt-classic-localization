@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 	"english"
 	{
@@ -329,10 +329,10 @@
 	{
 		"tokens"
 		{
-			"#RP_MainMenu"		"Στο Κύριο Μενού"
-			"#RP_Preparing"		"Προετοιμασία {#RP_Details}"
+			"#RP_MainMenu"		"Στο αρχικό Μενού"
+			"#RP_Preparing"		"Ετοιμάζεται {#RP_Details}"
 			"#RP_Active"		"Σε εξέλιξη {#RP_Details}"
-			"#RP_Complete"		"Ο γύρος τελείωσε {#RP_Details}"
+			"#RP_Complete"		"Τέλος γύρου {#RP_Details}"
 			"#RP_Waiting"		"Αναμονή {#RP_Details}"
 			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
 			"#Status"			"{#RP_%presence%} στο {%game:map_name%} | %game:server_count%/%game:server_limit% παίκτες"
@@ -390,16 +390,4 @@
 			"#Status"			"{#RP_%presence%} di {%game:map_name%} | %game:server_count%/%game:server_limit% pemain"
 		}
 	}
-	"greek"
-	{
-		"tokens"
-		{
-			"#RP_MainMenu"		"Στο αρχικό Μενού"
-			"#RP_Preparing"		"Ετοιμάζεται {#RP_Details}"
-			"#RP_Active"		"Σε εξέλιξη {#RP_Details}"
-			"#RP_Complete"		"Τέλος γύρου {#RP_Details}"
-			"#RP_Waiting"		"Αναμονή {#RP_Details}"
-			"#RP_Details"		"| %game:map_name% | %time% | %game:server_count%/%game:server_limit%"
-			"#Status"			"{#RP_%presence%} στο {%game:map_name%} | %game:server_count%/%game:server_limit% παίκτες"
-		}
 }
