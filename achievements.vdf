@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
     "english"
     {
@@ -3332,11 +3332,13 @@
             "NEW_ACHIEVEMENT_1849_6_DESC"           "Aparece como gallina con el cosmético Tycho equipado."
         }
     }
-"greek"
+}
+"lang"
 {
-    "Tokens"
+    "greek"
     {
-
+        "Tokens"
+        {
             "NEW_ACHIEVEMENT_1808_1_NAME"           "Ασταμάτητος"
             "NEW_ACHIEVEMENT_1808_1_DESC"           "Επιβίωσε τρεις συνεχόμενους γύρους χωρίς να πεθάνεις.(Τουλ. 6 παίχτες)"
             "NEW_ACHIEVEMENT_1808_2_NAME"           "Πάρε εκδίκηση για μένα!"
@@ -3527,5 +3529,6 @@
             "NEW_ACHIEVEMENT_1849_5_DESC"           "Πάρτε το RPG στο Cliff."
             "NEW_ACHIEVEMENT_1849_6_NAME"           "Ναι, Είμαι μια Νέα Κλάση"
             "NEW_ACHIEVEMENT_1849_6_DESC"           "Spawnάρετε ως chicken με το Tycho cosmetic εξοπλισμένο."
+        }
     }
 }
