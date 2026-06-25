@@ -200,6 +200,7 @@
         "TTT_SET_FASTSW_MENU"                               "Habilitar o menu com a troca rápida de arma"
         "TTT_SET_WSWITCH"                                   "Desabilitar fechamento automático do menu de troca de armas"
         "TTT_SET_CUES"                                      "Tocar um som quando uma rodada começar ou terminar"
+        "TTT_SET_FLASH_TASKBAR"                             "Piscar o TTT Classic na barra de tarefas quando uma rodada termina ou começa"
         "TTT_SET_MSG_CUE"                                   "Tocar um som quando uma notificação aparecer"
         "TTT_SET_SPECMODE"                                  "Modo Somente-Espectador (fique sempre espectando)"
         "TTT_SET_AVOID_DET"                                 "Evitar ser selecionado como Detetive"

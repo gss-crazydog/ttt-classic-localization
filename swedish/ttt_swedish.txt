@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Aktivera vapenbyte med snabb vapenomkopplare"
     "TTT_SET_WSWITCH"                             "Avaktivera automatisk nedstängning av vapenmenyn"
     "TTT_SET_CUES"                                "Spela ett ljud när en runda slutar eller startas"
+    "TTT_SET_FLASH_TASKBAR"                       "Blinka TTT Classic i aktivitetsfältet när en runda slutar eller börjar"
     "TTT_SET_MSG_CUE"                             "Spela ljudsignal när ett meddelande visas"
     "TTT_SET_SPECMODE"                            "Var alltid åskådare"
     "TTT_SET_AVOID_DET"                           "Undvik att bli vald som Detective"

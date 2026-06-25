@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Activar selector de armas junto al cambio rápido"
     "TTT_SET_WSWITCH"                             "Desactivar el autocierre del menú de cambio de armas"
     "TTT_SET_CUES"                                "Reproducir una señal sonora al inicio o fin de la ronda"
+    "TTT_SET_FLASH_TASKBAR"                       "Hacer parpadear TTT Classic en la barra de tareas cuando una ronda termina o comienza"
     "TTT_SET_MSG_CUE"                             "Reproducir una señal sonora cuando aparezca una notificación"
     "TTT_SET_SPECMODE"                            "Modo Solo Espectador (permanecer siempre como espectador)"
     "TTT_SET_AVOID_DET"                           "Evitar ser seleccionado como Detective"

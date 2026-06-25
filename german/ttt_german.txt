@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Aktiviert das Waffenwechselmenü, selbst wenn der schnelle Waffenwechsel aktiv ist."
     "TTT_SET_WSWITCH"                             "Verhindere das automatische Schließen des Waffenwechselmenüs."
     "TTT_SET_CUES"                                "Spiele einen Ton ab, wenn eine Runde beginnt oder endet"
+    "TTT_SET_FLASH_TASKBAR"                       "Lasse TTT Classic in der Taskleiste aufblinken, wenn eine Runde endet oder beginnt"
     "TTT_SET_MSG_CUE"                             "Spiele einen Ton ab, wenn eine Benachrichtigung erscheint"
     "TTT_SET_SPECMODE"                            "Zuschauer-Modus (bleibe immer Zuschauer)"
     "TTT_SET_AVOID_DET"                           "Nicht als Detektiv ausgewählt werden"

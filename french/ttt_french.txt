@@ -200,6 +200,7 @@
         "TTT_SET_FASTSW_MENU"                               "Activer le menu avec changement d'arme rapide"
         "TTT_SET_WSWITCH"                                   "Désactiver la fermeture automatique du menu des armes"
         "TTT_SET_CUES"                                      "Émettre un son quand un round commence ou finit"
+        "TTT_SET_FLASH_TASKBAR"                             "Faire clignoter TTT Classic dans la barre des tâches lorsqu'une manche se termine ou commence"
         "TTT_SET_MSG_CUE"                                   "Émettre un son quand vous recevez une notification"
         "TTT_SET_SPECMODE"                                  "Mode spectateur uniquement (toujours rester spectateur)"
         "TTT_SET_AVOID_DET"                                 "Éviter d'être choisi Détective"

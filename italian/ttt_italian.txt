@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Abilita il menu con il cambio veloce di armi"
     "TTT_SET_WSWITCH"                             "Disabilita la chiusura automatica del menù delle armi"
     "TTT_SET_CUES"                                "Senti un avviso appena inizia o finisce il round"
+    "TTT_SET_FLASH_TASKBAR"                       "Fai lampeggiare TTT Classic nella barra delle applicazioni quando un round finisce o inizia"
     "TTT_SET_MSG_CUE"                             "Riproduci un segnale acustico quando viene visualizzata una notifica"
     "TTT_SET_SPECMODE"                            "Modalità solo spettatore (rimani sempre in spettatori)"
     "TTT_SET_AVOID_DET"                           "Evita di essere scelto come Detective"

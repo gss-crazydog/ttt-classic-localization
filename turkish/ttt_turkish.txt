@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Hızlı silah değiştirme ile menüyü etkinleştir"
     "TTT_SET_WSWITCH"                             "Silah değiştirme menüsünü otomatik kapatmayı devre dışı bırak"
     "TTT_SET_CUES"                                "Bir raunt başladığında veya bittiğinde ses işaretini çal"
+    "TTT_SET_FLASH_TASKBAR"                       "Bir raunt bittiğinde veya başladığında Görev Çubuğunda TTT Classic'i yakıp söndür"
     "TTT_SET_MSG_CUE"                             "Bir bildirim göründüğünde ses işaretini çal"
     "TTT_SET_SPECMODE"                            "Yalnızca İzleme modu (her zaman izleyici olarak kal)"
     "TTT_SET_AVOID_DET"                           "Dedektif olarak seçilmekten kaçın"

@@ -200,6 +200,7 @@
         "TTT_SET_FASTSW_MENU"                               "빠른 무기 전환 시 무기 선택창 사용"
         "TTT_SET_WSWITCH"                                   "무기 선택창 자동 닫기 비활성화"
         "TTT_SET_CUES"                                      "라운드 시작/종료 시 효과음 재생"
+        "TTT_SET_FLASH_TASKBAR"                             "라운드가 끝나거나 시작될 때 작업 표시줄에서 TTT Classic 깜박이기"
         "TTT_SET_MSG_CUE"                                   "알림 표시 시 효과음 재생"
         "TTT_SET_SPECMODE"                                  "관전자 전용 모드 (항상 관전자 유지)"
         "TTT_SET_AVOID_DET"                                 "탐정으로 선정되지 않기"

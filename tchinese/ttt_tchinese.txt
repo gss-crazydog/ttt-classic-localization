@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "啟用快速切換武器選單"
     "TTT_SET_WSWITCH"                             "關閉武器切換自動關閉"
     "TTT_SET_CUES"                                "在回合開始或結束時發出指示聲音"
+    "TTT_SET_FLASH_TASKBAR"                       "回合結束或開始時在工作列閃爍 TTT Classic"
     "TTT_SET_MSG_CUE"                             "出現通知時播放聲音提示"
     "TTT_SET_SPECMODE"                            "旁觀者模式（始終作為觀察者 ）"
     "TTT_SET_AVOID_DET"                           "拒絕被選為探長"

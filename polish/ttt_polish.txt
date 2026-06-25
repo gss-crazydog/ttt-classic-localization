@@ -200,6 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "Włącz zmianę broni za pomocą szybkiego przełączania broni"
     "TTT_SET_WSWITCH"                             "Wyłącz automatyczne zamykanie menu zmiany broni"
     "TTT_SET_CUES"                                "Odtwarzaj sygnał dźwiękowy, gdy runda się rozpoczyna lub kończy"
+    "TTT_SET_FLASH_TASKBAR"                       "Migaj TTT Classic na pasku zadań, gdy runda się kończy lub zaczyna"
     "TTT_SET_MSG_CUE"                             "Odtwórz sygnał dźwiękowy, gdy pojawi się powiadomienie"
     "TTT_SET_SPECMODE"                            "Tryb tylko dla widzów (zawsze pozostań widzem)"
     "TTT_SET_AVOID_DET"                           "Unikaj wyboru na detektywa"
