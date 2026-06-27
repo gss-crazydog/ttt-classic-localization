@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s nie udało się rozbroić C4 podłożonego przez%s"
     "TTT_C4_HELP_PRI"                             "Naciśnij %s, aby rzucić."
     "TTT_C4_HELP_SEC"                             "Naciśnij %s, aby dołączyć do powierzchni."
-    "TTT_EV_CREDIT"                               "%s znaleziono %d kredyt(y) na zwłokach %s"
+    "TTT_EV_CREDIT"                               "%s znaleziono %s kredyt(y) na zwłokach %s"
     "TTT_EV_START"                                "Runda się rozpoczęła"
     "TTT_EV_WIN_TRAITOR"                          "Podli zdrajcy wygrali rundę!"
     "TTT_EV_WIN_INNO"                             "Sympatyczni niewinni terroryści wygrali rundę!"

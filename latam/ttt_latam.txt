@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s ha fallado al desactivar el C4 colocado por %s"
     "TTT_C4_HELP_PRI"                             "Presiona %s para lanzar."
     "TTT_C4_HELP_SEC"                             "Presiona %s para adherirlo a una superficie."
-    "TTT_EV_CREDIT"                               "%s ha encontrado %d crédito(s) del cadáver de %s"
+    "TTT_EV_CREDIT"                               "%s ha encontrado %s crédito(s) del cadáver de %s"
     "TTT_EV_START"                                "La ronda ha comenzado"
     "TTT_EV_WIN_TRAITOR"                          "¡Los deleznables traidores han ganado la ronda!"
     "TTT_EV_WIN_INNO"                             "¡Los adorables inocentes han ganado la ronda!"

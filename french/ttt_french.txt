@@ -553,7 +553,7 @@
         "TTT_EV_C4_DISARM2"                                 "%s a échoué le déminage du C4 planté par %s"
         "TTT_C4_HELP_PRI"                                   "Appuyez sur%spour lancer."
         "TTT_C4_HELP_SEC"                                   "Appuyez sur%spour attacher à une surface."
-        "TTT_EV_CREDIT"                                     "%s a trouvé %d crédit(s) sur le corps de %s"
+        "TTT_EV_CREDIT"                                     "%s a trouvé %s crédit(s) sur le corps de %s"
         "TTT_EV_START"                                      "Le round a commencé"
         "TTT_EV_WIN_TRAITOR"                                "Les odieux traitres remportent la victoire !"
         "TTT_EV_WIN_INNO"                                   "Les adorables innocents remportent la victoire !"

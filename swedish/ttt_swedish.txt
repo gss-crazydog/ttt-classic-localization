@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s misslyckades med att desarmera C4 som placerades av %s"
     "TTT_C4_HELP_PRI"                             "Tryck på %s för att kasta."
     "TTT_C4_HELP_SEC"                             "Tryck på %s för att fästa på en yta."
-    "TTT_EV_CREDIT"                               "%s fann %d kredit(er) på %ss lik"
+    "TTT_EV_CREDIT"                               "%s fann %s kredit(er) på %ss lik"
     "TTT_EV_START"                                "Rundan började"
     "TTT_EV_WIN_TRAITOR"                          "De usla förrädarna vann rundan!"
     "TTT_EV_WIN_INNO"                             "De älskvärda oskyldiga terroristerna vann rundan!"

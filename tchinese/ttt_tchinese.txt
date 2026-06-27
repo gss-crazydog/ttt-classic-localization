@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s 因拆除失誤而引爆了 %s 安裝的C4"
     "TTT_C4_HELP_PRI"                             "按下 %s 進行投擲。"
     "TTT_C4_HELP_SEC"                             "按下 %s 附著於表面。"
-    "TTT_EV_CREDIT"                               "%s 在 %s 的屍體上找到 %d 點的信用點數"
+    "TTT_EV_CREDIT"                               "%s 在 %s 的屍體上找到 %s 點的信用點數"
     "TTT_EV_START"                                "回合開始"
     "TTT_EV_WIN_TRAITOR"                          "卑鄙的叛徒贏了這回合！"
     "TTT_EV_WIN_INNO"                             "無辜的恐怖分子贏了這回合！"

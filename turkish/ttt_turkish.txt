@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s, %s tarafından kurulan C4'ü etkisiz hale getiremedi"
     "TTT_C4_HELP_PRI"                             "Atmak için %s tuşuna bas."
     "TTT_C4_HELP_SEC"                             "Bir yüzeye tutturmak için %s tuşuna bas."
-    "TTT_EV_CREDIT"                               "%s, %s adlı oyuncunun cesedinde %d kredi buldu"
+    "TTT_EV_CREDIT"                               "%s, %s adlı oyuncunun cesedinde %s kredi buldu"
     "TTT_EV_START"                                "Raunt başladı"
     "TTT_EV_WIN_TRAITOR"                          "Aşağılık hainler raundu kazandı!"
     "TTT_EV_WIN_INNO"                             "Sevimli masum teröristler raundu kazandı!"

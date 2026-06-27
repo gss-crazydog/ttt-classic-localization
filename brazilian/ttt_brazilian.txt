@@ -553,7 +553,7 @@
         "TTT_EV_C4_DISARM2"                                 "%s falhou em desarmar o C4 de %s"
         "TTT_C4_HELP_PRI"                                   "Pressione %s para arremessar."
         "TTT_C4_HELP_SEC"                                   "Pressione %s para fixar em uma superfície."
-        "TTT_EV_CREDIT"                                     "%s encontrou %d crédito(s) no cadáver de %s"
+        "TTT_EV_CREDIT"                                     "%s encontrou %s crédito(s) no cadáver de %s"
         "TTT_EV_START"                                      "A rodada começou"
         "TTT_EV_WIN_TRAITOR"                                "Os traidores covardes venceram a rodada!"
         "TTT_EV_WIN_INNO"                                   "Os adoráveis terroristas inocentes venceram a rodada!"

@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s non è riuscito a disarmare il C4 piazzato da %s"
     "TTT_C4_HELP_PRI"                             "Premi %s per lanciarlo."
     "TTT_C4_HELP_SEC"                             "Premi %s per attaccarlo a una superficie."
-    "TTT_EV_CREDIT"                               "%s ha trovato %d credito/i sul cadavere di %s"
+    "TTT_EV_CREDIT"                               "%s ha trovato %s credito/i sul cadavere di %s"
     "TTT_EV_START"                                "Il round è cominciato"
     "TTT_EV_WIN_TRAITOR"                          "Gli ignobili traditori hanno vinto il round!"
     "TTT_EV_WIN_INNO"                             "Gli amabili innocenti hanno vinto il round!"

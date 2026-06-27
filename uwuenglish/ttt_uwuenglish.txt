@@ -552,7 +552,7 @@
     "TTT_EV_C4_DISARM2"                           "%s faiwed to disawm C4 pwanted by %s"
     "TTT_C4_HELP_PRI"                             "Pwess %s to toss."
     "TTT_C4_HELP_SEC"                             "Pwess %s to attach to a suwface."
-    "TTT_EV_CREDIT"                               "%s found %d cwedit(s) on the cowpse of %s"
+    "TTT_EV_CREDIT"                               "%s found %s cwedit(s) on the cowpse of %s"
     "TTT_EV_START"                                "The wound stawted"
     "TTT_EV_WIN_TRAITOR"                          "The dastawdwy twaitows won the wound!"
     "TTT_EV_WIN_INNO"                             "The wovabwe innyocent tewwowists won the wound!"

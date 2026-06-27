@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s hat beim Entschärfen des C4s von %s versagt"
     "TTT_C4_HELP_PRI"                             "%s drücken, um zu werfen."
     "TTT_C4_HELP_SEC"                             "%s drücken, um an einer Oberfläche zu befestigen."
-    "TTT_EV_CREDIT"                               "%s fand %d Credit(s) beim Leichnam von %s"
+    "TTT_EV_CREDIT"                               "%s fand %s Credit(s) beim Leichnam von %s"
     "TTT_EV_START"                                "Die Runde hat begonnen"
     "TTT_EV_WIN_TRAITOR"                          "Die heimtückischen Verräter haben die Runde gewonnen!"
     "TTT_EV_WIN_INNO"                             "Die liebenswerten unschuldigen Terroristen haben die Runde gewonnen!"

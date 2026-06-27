@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s se nepodařilo deaktivovat C4 umístěnou hráčem %s"
     "TTT_C4_HELP_PRI"                             "Stiskněte %s pro odhození."
     "TTT_C4_HELP_SEC"                             "Stiskněte %s pro připevnění k povrchu."
-    "TTT_EV_CREDIT"                               "%s našel %d kredit(ů) na mrtvole hráče %s"
+    "TTT_EV_CREDIT"                               "%s našel %s kredit(ů) na mrtvole hráče %s"
     "TTT_EV_START"                                "Kolo začalo"
     "TTT_EV_WIN_TRAITOR"                          "Záludní zrádci vyhráli kolo!"
     "TTT_EV_WIN_INNO"                             "Sympatičtí nevinní teroristé vyhráli kolo!"

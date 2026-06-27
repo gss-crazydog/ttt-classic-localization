@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%sは%sの設置したC4の解除に失敗した"
     "TTT_C4_HELP_PRI"                             "%sで投げる。"
     "TTT_C4_HELP_SEC"                             "%sで壁や床に貼り付ける。"
-    "TTT_EV_CREDIT"                               "%sは%sの死体から%dクレジットを見つけた"
+    "TTT_EV_CREDIT"                               "%sは%sの死体から%sクレジットを見つけた"
     "TTT_EV_START"                                "ラウンドを開始した"
     "TTT_EV_WIN_TRAITOR"                          "卑劣なTraitor達がラウンドに勝利した！"
     "TTT_EV_WIN_INNO"                             "愛すべきInnocent達がラウンドに勝利した！"

@@ -553,7 +553,7 @@
         "TTT_EV_C4_DISARM2"                                 "%s(이)가 %s(이)가 설치한 C4 해제에 실패했습니다"
         "TTT_C4_HELP_PRI"                                   "%s 를 눌러 던집니다."
         "TTT_C4_HELP_SEC"                                   "%s 를 눌러 표면에 부착합니다."
-        "TTT_EV_CREDIT"                                     "%s(이)가 %s의 시체에서 %d 크레딧을 발견했습니다"
+        "TTT_EV_CREDIT"                                     "%s(이)가 %s의 시체에서 %s 크레딧을 발견했습니다"
         "TTT_EV_START"                                      "라운드가 시작되었습니다"
         "TTT_EV_WIN_TRAITOR"                                "비열한 배신자들이 이번 라운드에서 승리했습니다!"
         "TTT_EV_WIN_INNO"                                   "사랑스러운 무고한 테러리스트들이 이번 라운드에서 승리했습니다!"

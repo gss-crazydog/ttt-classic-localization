@@ -553,7 +553,7 @@
     "TTT_EV_C4_DISARM2"                           "%s failed to disarm C4 planted by %s"
     "TTT_C4_HELP_PRI"                             "Press %s to toss."
     "TTT_C4_HELP_SEC"                             "Press %s to attach to a surface."
-    "TTT_EV_CREDIT"                               "%s found %d credit(s) on the corpse of %s"
+    "TTT_EV_CREDIT"                               "%s found %s credit(s) on the corpse of %s"
     "TTT_EV_START"                                "The round started"
     "TTT_EV_WIN_TRAITOR"                          "The dastardly traitors won the round!"
     "TTT_EV_WIN_INNO"                             "The lovable innocent terrorists won the round!"
