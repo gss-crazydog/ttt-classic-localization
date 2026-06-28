@@ -1128,5 +1128,6 @@
         "TTT_SPEC_CHICKEN_NOISEMAKER"                       "Permitir sons de galinha"
         "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"                 "Delay de sons"
         "TTT_VOICE_SETTINGS_NOTE"                           "Estas configurações de voz não estão habilitadas.\nAjuste o volume da voz em Multijogador -> Configurações do TTT"
+        "TTT_STARTING_ROUND"                                "Preparando nova rodada..."
     }
 }

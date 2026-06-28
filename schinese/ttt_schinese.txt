@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "启用小鸡噪音发生器"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "小鸡噪音发生器延迟"
     "TTT_VOICE_SETTINGS_NOTE"                     "这些语音设置未启用。\n在 多人联机 -> TTT设置 中调整语音音量"
+    "TTT_STARTING_ROUND"                          "正在准备新一轮..."
   }
 }

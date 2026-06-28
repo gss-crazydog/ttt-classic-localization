@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Krachmacher aktivieren"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Krachmacher-Verzögerung"
     "TTT_VOICE_SETTINGS_NOTE"                     "Diese Spracheinstellungen sind nicht aktiviert.\nPassen Sie die Sprachlautstärke unter Multiplayer -> TTT-Einstellungen an"
+    "TTT_STARTING_ROUND"                          "Neue Runde wird vorbereitet..."
   }
 }

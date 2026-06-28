@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Включить кудахтанье"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Задержка кудахтанья"
     "TTT_VOICE_SETTINGS_NOTE"                     "Эти настройки голосового чата не включены.\nНастройте громкость голосового чата в разделе Сетевая игра -> Настройки TTT"
+    "TTT_STARTING_ROUND"                          "Подготовка нового раунда..."
   }
 }

@@ -1131,5 +1131,6 @@
         "TTT_SPEC_CHICKEN_NOISEMAKER"                       "소음 발생기 활성화"
         "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"                 "소음 발생기 지연시간"
         "TTT_VOICE_SETTINGS_NOTE"                           "해당 음성 설정은 사용되지 않습니다.\n멀티플레이어 - TTT 설정에서 조정하세요."
+        "TTT_STARTING_ROUND"                                "새 라운드 준비 중..."
     }
 }

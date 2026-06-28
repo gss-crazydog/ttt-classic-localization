@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Habilitar cacareos (generador de ruido)"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Retraso entre cacareos"
     "TTT_VOICE_SETTINGS_NOTE"                     "Estos ajustes de voz no están habilitados.\nAjusta el volumen de voz en Multijugador -> Ajustes de TTT"
+    "TTT_STARTING_ROUND"                          "Preparando nueva ronda..."
   }
 }

@@ -1128,5 +1128,6 @@
         "TTT_SPEC_CHICKEN_NOISEMAKER"                       "Activer le Cri"
         "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"                 "Délai de réutilisation du Cri"
         "TTT_VOICE_SETTINGS_NOTE"                           "Ces paramètres de voix ne sont pas activés.\nAjustez le volume de la voix dans Multijoueur -> Paramètres TTT"
+        "TTT_STARTING_ROUND"                                "Préparation d'un nouveau tour..."
     }
 }

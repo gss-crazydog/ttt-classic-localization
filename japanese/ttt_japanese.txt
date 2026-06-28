@@ -200,7 +200,7 @@
     "TTT_SET_FASTSW_MENU"                         "高速武器スイッチ時のメニュー表示を有効にする"
     "TTT_SET_WSWITCH"                             "武器スイッチメニューが自動で閉じるのを無効にする"
     "TTT_SET_CUES"                                "ラウンド開始時、終了時に音を鳴らす"
-  "TTT_SET_FLASH_TASKBAR"                         "ラウンドの終了時または開始時にタスクバーで TTT Classic を点滅させる"
+    "TTT_SET_FLASH_TASKBAR"                       "ラウンドの終了時または開始時にタスクバーで TTT Classic を点滅させる"
     "TTT_SET_MSG_CUE"                             "通知が表示されたときにサウンドキューを再生する"
     "TTT_SET_SPECMODE"                            "常時観戦者モード(観戦者のままになれる)"
     "TTT_SET_AVOID_DET"                           "Detectiveになるのを避ける"
@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "鳴き声を有効にする"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "鳴き声のディレイ"
     "TTT_VOICE_SETTINGS_NOTE"                     "これらの音声設定は有効になっていません。\nマルチプレイヤー -> TTT設定 で音声を調整してください"
+    "TTT_STARTING_ROUND"                          "新しいラウンドを準備中..."
   }
 }

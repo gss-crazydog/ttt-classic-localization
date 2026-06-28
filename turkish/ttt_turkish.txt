@@ -1128,5 +1128,6 @@
     "TTT_SPEC_CHICKEN_NOISEMAKER"                 "Gürültücüyü Etkinleştir"
     "TTT_SPEC_CHICKEN_NOISEMAKER_DELAY"           "Gürültücü Gecikmesi"
     "TTT_VOICE_SETTINGS_NOTE"                     "Bu ses ayarları etkin değil.\nÇok Oyunculu -> TTT Ayarları bölümünden ses düzeyini ayarlayın"
+    "TTT_STARTING_ROUND"                          "Yeni tur hazırlanıyor..."
   }
 }
