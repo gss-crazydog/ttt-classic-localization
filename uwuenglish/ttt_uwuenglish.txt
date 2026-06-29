@@ -826,6 +826,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 has achieved %s2!"
     "TTT_STATS_LOADING"                           "Woading..."
+    "TTT_STATS_ERROR"                             "Stats couwdn't be woaded."
     "TTT_STATS_TITLE"                             "Achievements and Stats"
     "TTT_STATS_GLOBAL"                            "Gwobaw"
     "TTT_STATS_VIEW_FRIEND"                       "View Fwiend"

@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "Гравець %s1 здобув досягнення %s2!"
     "TTT_STATS_LOADING"                           "Завантаження..."
+    "TTT_STATS_ERROR"                             "Не вдалося завантажити статистику."
     "TTT_STATS_TITLE"                             "Досягнення та статистика"
     "TTT_STATS_GLOBAL"                            "Глобально"
     "TTT_STATS_VIEW_FRIEND"                       "Переглянути друга"

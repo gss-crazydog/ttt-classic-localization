@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 har uppnått %s2!"
     "TTT_STATS_LOADING"                           "Laddar in..."
+    "TTT_STATS_ERROR"                             "Statistiken kunde inte laddas."
     "TTT_STATS_TITLE"                             "Prestationer och statistik"
     "TTT_STATS_GLOBAL"                            "Globalt"
     "TTT_STATS_VIEW_FRIEND"                       "Visa vän"

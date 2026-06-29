@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 獲得了成就：%s2！"
     "TTT_STATS_LOADING"                           "載入中..."
+    "TTT_STATS_ERROR"                             "無法載入統計數據。"
     "TTT_STATS_TITLE"                             "成就與統計數據"
     "TTT_STATS_GLOBAL"                            "全球"
     "TTT_STATS_VIEW_FRIEND"                       "查看好友"

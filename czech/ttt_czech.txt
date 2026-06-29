@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 získal achievement %s2!"
     "TTT_STATS_LOADING"                           "Načítání..."
+    "TTT_STATS_ERROR"                             "Statistiky se nepodařilo načíst."
     "TTT_STATS_TITLE"                             "Achievementy a statistiky"
     "TTT_STATS_GLOBAL"                            "Globální"
     "TTT_STATS_VIEW_FRIEND"                       "Zobrazit přítele"

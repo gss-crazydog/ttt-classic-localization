@@ -828,6 +828,7 @@
         // Achievements and Statistics
         "TTT_ACHIEVEMENT_UNLOCKED"                          "%s1 님이 '%s2' 도전과제을 달성했습니다!"
         "TTT_STATS_LOADING"                                 "불러오는 중..."
+        "TTT_STATS_ERROR"                                   "통계를 불러올 수 없었습니다."
         "TTT_STATS_TITLE"                                   "도전과제 및 통계"
         "TTT_STATS_GLOBAL"                                  "글로벌"
         "TTT_STATS_VIEW_FRIEND"                             "친구 보기"

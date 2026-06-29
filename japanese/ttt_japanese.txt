@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1が「%s2」を達成した！"
     "TTT_STATS_LOADING"                           "読み込み中..."
+    "TTT_STATS_ERROR"                             "統計を読み込めませんでした。"
     "TTT_STATS_TITLE"                             "実績と統計"
     "TTT_STATS_GLOBAL"                            "グローバル"
     "TTT_STATS_VIEW_FRIEND"                       "フレンドを見る"

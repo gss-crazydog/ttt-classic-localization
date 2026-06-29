@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 解锁了成就：%s2！"
     "TTT_STATS_LOADING"                           "加载中..."
+    "TTT_STATS_ERROR"                             "无法加载统计数据。"
     "TTT_STATS_TITLE"                             "成就与统计"
     "TTT_STATS_GLOBAL"                            "全局"
     "TTT_STATS_VIEW_FRIEND"                       "查看好友"

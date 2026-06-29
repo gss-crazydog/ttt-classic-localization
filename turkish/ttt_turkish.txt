@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1,%s2 başarımını kazandı!"
     "TTT_STATS_LOADING"                           "Yükleniyor..."
+    "TTT_STATS_ERROR"                             "İstatistikler yüklenemedi."
     "TTT_STATS_TITLE"                             "Başarımlar ve İstatistikler"
     "TTT_STATS_GLOBAL"                            "Küresel"
     "TTT_STATS_VIEW_FRIEND"                       "Arkadaşı Görüntüle"

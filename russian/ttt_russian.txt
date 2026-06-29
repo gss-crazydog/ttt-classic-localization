@@ -828,6 +828,7 @@
     // Achievements and Statistics
     "TTT_ACHIEVEMENT_UNLOCKED"                    "%s1 получает достижение %s2!"
     "TTT_STATS_LOADING"                           "Загрузка..."
+    "TTT_STATS_ERROR"                             "Не удалось загрузить статистику."
     "TTT_STATS_TITLE"                             "Достижения и статистика"
     "TTT_STATS_GLOBAL"                            "Глобальная"
     "TTT_STATS_VIEW_FRIEND"                       "Посмотреть друга"
