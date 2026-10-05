@@ -8,6 +8,7 @@
         "TTT_DETECTIVE"                                                 "탐정"
         "TTT_INNOCENT"                                                  "이노센트"
         "TTT_LAST_WORDS"                                                "유언: "
+        "TTT_UNKNOWN_PLAYER"                                            "알 수 없음"
         "TTT_TERRORISTS"                                                "테러리스트"
         "TTT_SPECTATORS"                                                "관전자"
         // Round status messages

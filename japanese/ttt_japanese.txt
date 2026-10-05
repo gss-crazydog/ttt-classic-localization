@@ -8,6 +8,7 @@
     "TTT_DETECTIVE"                                           "Detective"
     "TTT_INNOCENT"                                            "Innocent"
     "TTT_LAST_WORDS"                                          "遺言"
+    "TTT_UNKNOWN_PLAYER"                                      "不明"
     "TTT_TERRORISTS"                                          "テロリスト"
     "TTT_SPECTATORS"                                          "観戦者"
     // Round status messages

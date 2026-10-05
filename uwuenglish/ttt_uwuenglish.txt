@@ -8,6 +8,7 @@
     "TTT_DETECTIVE"                                           "Detective"
     "TTT_INNOCENT"                                            "Innyocent"
     "TTT_LAST_WORDS"                                          "Wast Wowds"
+    "TTT_UNKNOWN_PLAYER"                                      "Unknyown"
     "TTT_TERRORISTS"                                          "Tewwowists"
     "TTT_SPECTATORS"                                          "Spectatows"
     // Round status messages

@@ -8,6 +8,7 @@
     "TTT_DETECTIVE"                                           "Detektiv"
     "TTT_INNOCENT"                                            "Nevinný"
     "TTT_LAST_WORDS"                                          "Poslední slova"
+    "TTT_UNKNOWN_PLAYER"                                      "Neznámý"
     "TTT_TERRORISTS"                                          "Teroristé"
     "TTT_SPECTATORS"                                          "Sledující"
     // Round status messages

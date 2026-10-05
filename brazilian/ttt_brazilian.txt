@@ -8,6 +8,7 @@
         "TTT_DETECTIVE"                                                 "Detetive"
         "TTT_INNOCENT"                                                  "Inocente"
         "TTT_LAST_WORDS"                                                "Últimas palavras"
+        "TTT_UNKNOWN_PLAYER"                                            "Desconhecido"
         "TTT_TERRORISTS"                                                "Terroristas"
         "TTT_SPECTATORS"                                                "Espectadores"
         // Round status messages

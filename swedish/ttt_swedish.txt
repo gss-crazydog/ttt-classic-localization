@@ -8,6 +8,7 @@
     "TTT_DETECTIVE"                                           "Detektiv"
     "TTT_INNOCENT"                                            "Oskyldig"
     "TTT_LAST_WORDS"                                          "Sista Ord"
+    "TTT_UNKNOWN_PLAYER"                                      "Okänd"
     "TTT_TERRORISTS"                                          "Terrorister"
     "TTT_SPECTATORS"                                          "Åskådare"
     // Round status messages
