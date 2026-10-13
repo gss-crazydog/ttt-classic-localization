@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Wählen Sie einen Schwierigkeitsgrad für die\nHauptkampagne bzw. Uplink oder den\nTrainingsraum aus und klicken Sie auf „Spielen“."
         "GameUI_Difficulty"                                 "Schwierigkeitsgrad auswählen"
         "GameUI_TrainingRoom"                               "Trainingsraum"
-        "GameUI_PlayGame"                                   "Half-Life spielen"
+        "GameUI_PlayGame"                                   "TTT Classic spielen"
         "GameUI_PlayGame_Alt"                               "Half-Life: Uplink spielen"
         "GameUI_Easy"                                       "Einfach"
         "GameUI_Medium"                                     "Mittel"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Suchen Sie nach Online-Mehrspieler-Servern."
         "GameUI_MainMenu_Hint_CreateServer"                 "Hosten Sie einen Online-Mehrspieler-Server, um mit anderen zu spielen."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Wählen Sie einen anderen Mod zum Spielen."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Beenden Sie Half-Life."
+        "GameUI_MainMenu_Hint_QuitGame"                     "TTT Classic beenden."
     }
 }

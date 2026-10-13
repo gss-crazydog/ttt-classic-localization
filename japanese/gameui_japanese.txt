@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "メインキャンペーンの難易度を選択するか、\nアップリンクまたはトレーニングルームを選択し、「プレイ」を押してください。"
         "GameUI_Difficulty"                                 "難易度を選択"
         "GameUI_TrainingRoom"                               "トレーニングルーム"
-        "GameUI_PlayGame"                                   "Half-Lifeをプレイ"
+        "GameUI_PlayGame"                                   "TTT Classicをプレイ"
         "GameUI_PlayGame_Alt"                               "Half-Life: Uplinkをプレイ"
         "GameUI_Easy"                                       "イージー"
         "GameUI_Medium"                                     "ノーマル"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "オンラインマルチプレイヤーサーバーを検索します。"
         "GameUI_MainMenu_Hint_CreateServer"                 "他のプレイヤーが参加できるオンラインサーバーをホストします。"
         "GameUI_MainMenu_Hint_ChangeGame"                   "プレイする別のMODを選択します。"
-        "GameUI_MainMenu_Hint_QuitGame"                     "Half-Lifeを終了します。"
+        "GameUI_MainMenu_Hint_QuitGame"                     "TTT Classicのプレイを終了します。"
     }
 }

@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "选择主要战役的难度级别，\n或选择上行链路或训练室，然后\n按“开始”。"
         "GameUI_Difficulty"                                 "选择难度"
         "GameUI_TrainingRoom"                               "训练室"
-        "GameUI_PlayGame"                                   "玩《半条命》"
+        "GameUI_PlayGame"                                   "玩 TTT Classic"
         "GameUI_PlayGame_Alt"                               "玩《半条命：上行链路》"
         "GameUI_Easy"                                       "简单"
         "GameUI_Medium"                                     "中等"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "搜索在线多人游戏服务器。"
         "GameUI_MainMenu_Hint_CreateServer"                 "建立一个在线多人游戏服务器供他人加入。"
         "GameUI_MainMenu_Hint_ChangeGame"                   "选择不同的模组来游玩。"
-        "GameUI_MainMenu_Hint_QuitGame"                     "退出《半条命》。"
+        "GameUI_MainMenu_Hint_QuitGame"                     "退出 TTT Classic。"
     }
 }

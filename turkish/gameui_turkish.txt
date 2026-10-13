@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Ana kampanya için bir zorluk seviyesi seçin,\nveya Uplink'i veya Eğitim Odasını seçin, ardından\n'Oynat'a basın."
         "GameUI_Difficulty"                                 "Zorluk Seç"
         "GameUI_TrainingRoom"                               "Eğitim Odası"
-        "GameUI_PlayGame"                                   "Half-Life oyna"
+        "GameUI_PlayGame"                                   "TTT Classic oyna"
         "GameUI_PlayGame_Alt"                               "Half-Life: Uplink'i oynayın"
         "GameUI_Easy"                                       "Kolay"
         "GameUI_Medium"                                     "Orta"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Çevrimiçi çok oyunculu sunucuları arayın."
         "GameUI_MainMenu_Hint_CreateServer"                 "Başkalarının katılabileceği çevrimiçi çok oyunculu bir sunucuya ev sahipliği yapın."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Oynamak için farklı bir mod seçin."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Half-Life oynamayı bırakın."
+        "GameUI_MainMenu_Hint_QuitGame"                     "TTT Classic'ten çık."
     }
 }

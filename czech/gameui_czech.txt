@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Vyberte obtížnost hlavní kampaně,\nnebo zvolte Uplink či Tréninkovou místnost,\na poté klikněte na „Hrát“."
         "GameUI_Difficulty"                                 "Vyberte obtížnost"
         "GameUI_TrainingRoom"                               "Tréninková místnost"
-        "GameUI_PlayGame"                                   "Hrát Half-Life"
+        "GameUI_PlayGame"                                   "Hrát TTT Classic"
         "GameUI_PlayGame_Alt"                               "Hrát Half-Life: Uplink"
         "GameUI_Easy"                                       "Lehká"
         "GameUI_Medium"                                     "Střední"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Vyhledat online servery pro hru více hráčů."
         "GameUI_MainMenu_Hint_CreateServer"                 "Vytvořit online server, ke kterému se mohou připojit ostatní hráči."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Vybrat jiný mod ke hraní."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Ukončit hru Half-Life."
+        "GameUI_MainMenu_Hint_QuitGame"                     "Ukončit TTT Classic."
     }
 }

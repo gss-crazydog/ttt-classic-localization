@@ -56,7 +56,7 @@
                 "GameUI_NewGameHelpTextUplink"                                  "Sélectionnez un niveau de difficulté pour la campagne principale,\nou sélectionnez Uplink ou la salle d'entraînement, puis\nappuyez sur « Jouer »."
                 "GameUI_Difficulty"                                             "Sélectionnez la difficulté"
                 "GameUI_TrainingRoom"                                           "Salle d'entraînement"
-                "GameUI_PlayGame"                                               "Jouer à Half-Life"
+                "GameUI_PlayGame"                                               "Jouer à TTT Classic"
                 "GameUI_PlayGame_Alt"                                           "Jouer à Half-Life : Uplink"
                 "GameUI_Easy"                                                   "Facile"
                 "GameUI_Medium"                                                 "Moyen"
@@ -264,6 +264,6 @@
                 "GameUI_MainMenu_Hint_FindServer"                               "Recherchez des serveurs multijoueurs en ligne."
                 "GameUI_MainMenu_Hint_CreateServer"                             "Hébergez un serveur multijoueur en ligne."
                 "GameUI_MainMenu_Hint_ChangeGame"                               "Sélectionnez un autre mod pour jouer."
-                "GameUI_MainMenu_Hint_QuitGame"                                 "Arrêtez de jouer à Half-Life."
+                "GameUI_MainMenu_Hint_QuitGame"                                 "Quitter TTT Classic."
         }
 }

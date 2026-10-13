@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Select a difficulty level for the main campaign,\nor select Uplink or the Twaining Woom, then\npwess 'pway'."
         "GameUI_Difficulty"                                 "Select Difficulty"
         "GameUI_TrainingRoom"                               "Twaining Woom"
-        "GameUI_PlayGame"                                   "Pway Half-Wife"
+        "GameUI_PlayGame"                                   "Pway TTT Cwassic"
         "GameUI_PlayGame_Alt"                               "Pway Half-Wife: Uplink"
         "GameUI_Easy"                                       "Easy"
         "GameUI_Medium"                                     "Medium"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Search for online multipwaya servers."
         "GameUI_MainMenu_Hint_CreateServer"                 "Host an online multipwaya server for others to join."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Select a different mod to pway."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Quit pwaying Half-Wife."
+        "GameUI_MainMenu_Hint_QuitGame"                     "Quit pwaying TTT Cwassic."
     }
 }

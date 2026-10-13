@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "選擇主要戰役的難度級別，\n或選擇 Uplink 或訓練室，然後\n按「開始」。"
         "GameUI_Difficulty"                                 "選擇難度"
         "GameUI_TrainingRoom"                               "訓練室"
-        "GameUI_PlayGame"                                   "遊玩戰慄時空"
+        "GameUI_PlayGame"                                   "遊玩 TTT Classic"
         "GameUI_PlayGame_Alt"                               "遊玩戰慄時空：Uplink"
         "GameUI_Easy"                                       "簡單"
         "GameUI_Medium"                                     "中等"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "搜尋線上多人遊戲伺服器。"
         "GameUI_MainMenu_Hint_CreateServer"                 "建立一個線上多人遊戲伺服器供其他人加入。"
         "GameUI_MainMenu_Hint_ChangeGame"                   "選擇不同的模組 (Mod) 遊玩。"
-        "GameUI_MainMenu_Hint_QuitGame"                     "離開戰慄時空。"
+        "GameUI_MainMenu_Hint_QuitGame"                     "離開 TTT Classic。"
     }
 }

@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "메인 캠페인의 난이도를 선택하거나 Uplink 또는 훈련장을 선택한 후 '플레이'를 누르십시오."
         "GameUI_Difficulty"                                 "난이도 선택"
         "GameUI_TrainingRoom"                               "훈련장"
-        "GameUI_PlayGame"                                   "하프라이프 플레이"
+        "GameUI_PlayGame"                                   "TTT 클래식 플레이"
         "GameUI_PlayGame_Alt"                               "하프라이프: Uplink 플레이"
         "GameUI_Easy"                                       "쉬움"
         "GameUI_Medium"                                     "보통"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "온라인 멀티플레이어 서버를 검색합니다."
         "GameUI_MainMenu_Hint_CreateServer"                 "멀티플레이어 서버를 생성합니다."
         "GameUI_MainMenu_Hint_ChangeGame"                   "다른 모드(Mod)를 선택하여 플레이합니다."
-        "GameUI_MainMenu_Hint_QuitGame"                     "하프라이프를 종료합니다."
+        "GameUI_MainMenu_Hint_QuitGame"                     "TTT 클래식 플레이를 종료합니다."
     }
 }

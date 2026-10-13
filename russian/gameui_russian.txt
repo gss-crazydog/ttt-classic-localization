@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Выберите уровень сложности для основной кампании,\nили выберите «Восходящая связь» или «Тренировочную комнату», затем\nнажмите «Играть»."
         "GameUI_Difficulty"                                 "Выберите сложность"
         "GameUI_TrainingRoom"                               "Тренировочный зал"
-        "GameUI_PlayGame"                                   "Играть в Half-Life"
+        "GameUI_PlayGame"                                   "Играть в TTT Classic"
         "GameUI_PlayGame_Alt"                               "Играть в Half-Life: Uplink"
         "GameUI_Easy"                                       "Легкий"
         "GameUI_Medium"                                     "Средний"

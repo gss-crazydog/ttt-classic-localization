@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Välj en svårighetsgrad för huvudkampanjen,\neller välj Uplink eller Träningsrummet och tryck\nsedan på 'Spela'."
         "GameUI_Difficulty"                                 "Välj svårighetsgrad"
         "GameUI_TrainingRoom"                               "Träningsrum"
-        "GameUI_PlayGame"                                   "Spela Half-Life"
+        "GameUI_PlayGame"                                   "Spela TTT Classic"
         "GameUI_PlayGame_Alt"                               "Spela Half-Life: Uplink"
         "GameUI_Easy"                                       "Lätt"
         "GameUI_Medium"                                     "Medel"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Sök efter online-servrar för flerspelarläge."
         "GameUI_MainMenu_Hint_CreateServer"                 "Skapa en egen flerspelarserver online så att andra kan ansluta."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Välj en annan mod att spela."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Avsluta Half-Life."
+        "GameUI_MainMenu_Hint_QuitGame"                     "Sluta spela TTT Classic."
     }
 }

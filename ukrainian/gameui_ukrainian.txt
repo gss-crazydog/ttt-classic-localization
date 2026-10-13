@@ -56,7 +56,7 @@
         "GameUI_NewGameHelpTextUplink"                      "Виберіть рівень складності для основної кампанії\nабо виберіть Uplink або Training Room, потім\nнатисніть «Грати»."
         "GameUI_Difficulty"                                 "Виберіть Складність"
         "GameUI_TrainingRoom"                               "Тренувальна кімната"
-        "GameUI_PlayGame"                                   "Грати в Half-Life"
+        "GameUI_PlayGame"                                   "Грати в TTT Classic"
         "GameUI_PlayGame_Alt"                               "Грати в Half-Life: Uplink"
         "GameUI_Easy"                                       "легко"
         "GameUI_Medium"                                     "Середній"
@@ -264,6 +264,6 @@
         "GameUI_MainMenu_Hint_FindServer"                   "Шукайте багатокористувацькі онлайн-сервери."
         "GameUI_MainMenu_Hint_CreateServer"                 "Розмістіть онлайн-сервер для кількох гравців, щоб інші могли приєднатися."
         "GameUI_MainMenu_Hint_ChangeGame"                   "Виберіть інший мод для гри."
-        "GameUI_MainMenu_Hint_QuitGame"                     "Припиніть грати в Half-Life."
+        "GameUI_MainMenu_Hint_QuitGame"                     "Вийти з гри TTT Classic."
     }
 }
